@@ -1,0 +1,2 @@
+C:/Users/Nicholas/Documents/College Classes/Spring 2025/CS 373/Homework/SpecialEffects/vcpkg_installed/x64-windows/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/Nicholas/Documents/College Classes/Spring 2025/CS 373/Homework/SpecialEffects/vcpkg_installed/x64-windows/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir
